@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel! 👋
 
-I'm a **MEng Computer Science Student** at the University of Liverpool, specialising in **Machine Learning**, **Data Science**, and **Full-Stack Engineering**. I've built production-ready data apps and scalable recommendation systems.
+I'm a **Masters of Engineering Computer Science Student** at the University of Liverpool, specialising in **Machine Learning**, **Data Science**, and **Full-Stack Engineering**. I've built production-ready data apps and scalable recommendation systems.
 
 ### 🚀 Featured Project
 **[⚽ Football Scout Recommender](https://flashdash101.github.io/football-suggest/)**
